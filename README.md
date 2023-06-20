@@ -10,7 +10,7 @@
 
 5. create a .env file
 
-6. enter the details from last pass /client/.env
+6. enter the details from last pass /client/.env from Matrix Reports React note and save
 
 7. CD into the server folder
 
@@ -18,7 +18,7 @@
 
 9. create a .env file
 
-10. enter the details from last pass /server/.env
+10. enter the details from last pass /server/.env from Matrix Reports React note and save
 
 11. CD into the root folder
 
