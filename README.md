@@ -34,7 +34,7 @@
 
 17. Export the PDF
 
-18. Change the url to https://www.maloneoregan.com (no trailing slash) 
+18. Change the url to https://www.maloneoregan.com (no trailing slash) - It will only work with these 2 site at the moment 
 
 19. Give it a moment to to load the data
 
