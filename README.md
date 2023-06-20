@@ -42,8 +42,7 @@
 
 21. Export the PDF
 
-    file:///home/ben/Pictures/Screenshots/Screenshot%20from%202023-06-20%2014-36-02.png
-
-file:///home/ben/Pictures/Screenshots/Screenshot%20from%202023-06-20%2014-36-14.png
+![Screenshot from 2023-06-20 14-36-02](https://github.com/bernardhanna/matrix-report-generator/assets/47034430/799f9659-e248-4d01-8bc3-20962dea0836)
+![Screenshot from 2023-06-20 14-36-14](https://github.com/bernardhanna/matrix-report-generator/assets/47034430/8dc01ef6-befb-41b7-90ad-6db1224140b0)
 
 
